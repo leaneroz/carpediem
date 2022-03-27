@@ -1,0 +1,27 @@
+main:
+  - name: "Accueil"
+    url: "/"
+    weight: 1
+  - name: "L'institut"
+    url: "/about/"
+    weight: 2
+  - name: "Les Soins"
+    url: "/soins/"
+    weight: 3
+#  - name: "Team"
+#    url: "/team/"
+#    weight: 3
+  - name: "Les Produits"
+    url: "/service/"
+    weight: 4
+  - name: "Contact"
+    url: "/contact/"
+    weight: 5
+
+footer:
+  - name: "Accueil"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2

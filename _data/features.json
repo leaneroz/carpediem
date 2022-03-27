@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Vente à la Boutique",
+    "description": "Découvrez nos produits en vente à la boutique",
+    "image": {
+      "url": "images/features/boutique.webp",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Cosmetique",
+    "description": "New clients receive an obligation free consultation.",
+    "image": {
+      "url": "images/features/cosmetic.webp",
+      "width": 70,
+      "height": 70
+    }
+  },
+  {
+    "title": "Tax Compliance",
+    "description": "We stay up to date on the latest changes to the tax code.",
+    "image": {
+      "url": "images/features/nature-spa.webp",
+      "width": 70,
+      "height": 70
+    }
+  }
+]
