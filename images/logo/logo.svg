@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="148.51001mm"
+   height="45.478271mm"
+   viewBox="0 0 148.51 45.478272"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="220.13251"
+     inkscape:cy="370.79058"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient38321">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop38317" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop38319" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient38321"
+       id="linearGradient38323"
+       x1="43.122447"
+       y1="80.192063"
+       x2="121.31412"
+       y2="80.192063"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient38321"
+       id="linearGradient38325"
+       x1="132.82107"
+       y1="68.995421"
+       x2="195.86484"
+       y2="68.995421"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-47.067426,-50.343086)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.5556px;line-height:1.25;font-family:LovingYou;-inkscape-font-specification:LovingYou;stroke-width:0.264583;fill-opacity:1;fill:#212e53"
+       x="43.051891"
+       y="99.724884"
+       id="text4148"
+       transform="rotate(-4.006358)"
+       inkscape:export-filename="/home/nicolas/DépotGit/serif/images/logo/logo-mobile.webp"
+       inkscape:export-xdpi="22.405224"
+       inkscape:export-ydpi="22.405224"><tspan
+         sodipodi:role="line"
+         id="tspan4146"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.5556px;font-family:LovingYou;-inkscape-font-specification:LovingYou;stroke-width:0.264583;fill-opacity:1;fill:#212e53"
+         x="43.051891"
+         y="99.724884">Carpe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.5556px;line-height:1.25;font-family:LovingYou;-inkscape-font-specification:LovingYou;stroke-width:0.264583;fill-opacity:1;fill:#212e53"
+       x="132.77068"
+       y="92.447319"
+       id="text6638"
+       transform="rotate(0.24784022)"
+       inkscape:export-filename="/home/nicolas/DépotGit/serif/images/logo/logo-mobile.webp"
+       inkscape:export-xdpi="22.405224"
+       inkscape:export-ydpi="22.405224"><tspan
+         sodipodi:role="line"
+         id="tspan6636"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.5556px;font-family:LovingYou;-inkscape-font-specification:LovingYou;stroke-width:0.264583;fill-opacity:1;fill:#212e53"
+         x="132.77068"
+         y="92.447319">Diem</tspan></text>
+  </g>
+</svg>
