@@ -10,7 +10,7 @@ presentation_image_hide_on_mobile: true
 
 Répare et rééquilibre la peau en stimulant la circulation sanguine et en libérant ainsi les toxines, **la traite en profondeur et étanche sa soif**, grâce à l’une des 5 argiles de couleur. La douceur du modelage du visage et des mains invite à une totale relaxation.
 
-![Soins du visage]({{ site.baseurl }}/images/post/soins-du-visage.png)
+![Soins du visage]({{ site.baseurl }}/images/post/soins-du-visage.webp)
 
 # Le soin de base
 Nettoie la peau et purifie, pour un visage lisse et un teint lumineux.

@@ -40,6 +40,30 @@ plugins:
   - jekyll-environment-variables
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-imagemagick
+
+imagemagick:
+  enabled: true
+  widths:
+    - 0
+  input_directories:
+    - images
+    - images/features
+    - images/illustrations
+    - images/post
+    - images/logo
+    - images/team
+
+
+  input_formats:
+    - ".png"
+    - ".jpeg"
+    - ".jpg"
+    - ".tiff"
+  output_formats:
+#    jpg: "-quality 93% -define jpeg:dct-method=float -strip -interlace Plane"
+    webp: "-quality 80%"
+
 
 exclude:
   - Gemfile
